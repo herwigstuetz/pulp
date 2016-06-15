@@ -66,7 +66,7 @@
     "jshint": "^2.8.0",
     "mkdirp": "^0.5.1",
     "mocha": "^2.2.5",
-    "psvm": "ThomasCrvsr/psvm-js#80d318ccdd",
+    "psvm": "hdgarrood/psvm-js#windows-support",
     "purescript-psa": "^0.3.4",
     "semver": "^5.1.0",
     "touch": "^1.0.0"
